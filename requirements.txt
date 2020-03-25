@@ -1,0 +1,8 @@
+#python 3.6
+#pip3
+#python modules
+pip install time
+pip install itertools
+pip install random 
+pip install pyautogui
+#install above modules using terminal or command prompt 
